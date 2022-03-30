@@ -3,7 +3,7 @@
 
 <main class="container">
 
-💻 Taking MSc in Computer Engineering @ [FEUP](https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_PLANOS_ESTUDOS_VIEW?pv_plano_id=31204&pv_ano_lectivo=2021)\
+💻 Taking MSc in Computer Engineering @ [FEUP](https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_PLANOS_ESTUDOS_VIEW?pv_plano_id=31204&pv_ano_lectivo=2021)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Miguel26-pixel&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
