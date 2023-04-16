@@ -8,10 +8,7 @@
   
   ### 📈️ Github Stats
 
-<div style="display: flex; flex-direction: row;">
-  
-  <img alt="Mike Amorim's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=miguel26-pixel&show_icons=true&count_private=true&line_height=27&theme=material-palenight" />
-  
-  <img alt="Mike Amorim's Top Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel26-pixel&langs_count=3&theme=material-palenight" />
-  
-</div>
+![](https://github-readme-stats.vercel.app/api?username=miguel26-pixel&theme=react&hide_border=true&include_all_commits=false&count_private=true)<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=miguel26-pixel&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel26-pixel&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
