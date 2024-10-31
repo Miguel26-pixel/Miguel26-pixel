@@ -3,7 +3,7 @@
 
 <main class="container">
 
-💻 Taking MSc in Computer Engineering @ [FEUP](https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_PLANOS_ESTUDOS_VIEW?pv_plano_id=31204&pv_ano_lectivo=2021)
+💻 MSc in Computer Engineering @ [FEUP](https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_PLANOS_ESTUDOS_VIEW?pv_plano_id=31204&pv_ano_lectivo=2024)
 
   
   ### 📈️ Github Stats
